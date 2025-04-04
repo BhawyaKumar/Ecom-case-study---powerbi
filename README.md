@@ -18,7 +18,11 @@ Additionally, data cleaning and transformation are performed before building the
 📂 Final Deliverables
 📌 Interactive Power BI Dashboard showcasing insights
 
+---
 
+🚀 To view the Power BI report, please download the .pbix file and open it in Power BI Desktop.
+
+------
 
 🚀 Getting Started
 Prerequisites
